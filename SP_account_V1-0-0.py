@@ -1,4 +1,4 @@
-copyright["aeden harney"]
+copyright["silver productions"]
 
 name = input("username[#] ")
 password = input("password[%] ")
